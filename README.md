@@ -18,7 +18,7 @@ Upon completion of the certificate, you can directly apply for jobs with Google 
 
 The Google Cybersecurity Certificate helps prepare you for the CompTIA Security+ exam, the industry leading certification for cybersecurity roles. You’ll earn a dual credential when you complete both.
 
-Applied Learning Project
+### Applied Learning Project
 
 This program includes 170 hours of instruction and hundreds of practice-based assessments and activities that simulate real-world cybersecurity scenarios that are critical for success in the workplace. Through a mix of videos, assessments, and hands-on labs, you’ll become familiar with the cybersecurity tools, platforms, and skills required for an entry-level job.
 
